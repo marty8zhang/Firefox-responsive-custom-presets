@@ -1,62 +1,98 @@
 [
     {
-        "key": "320x480",
-        "name": "iPhone 3G/3GS",
+        "key": "320x240",
+        "name": "iPhone 3G/3GS/4/4S/5/5C/5S, iPad Touch (4/5th gen.) (portrait) & old smartphones",
         "width": 320,
+        "height": 240
+    },
+    {
+        "key": "360x480",
+        "name": "Some smartphones (portrait)",
+        "width": 360,
         "height": 480
     },
     {
-        "key": "480x800",
-        "name": "Google Nexus one",
-        "width": 480,
-        "height": 800
+        "key": "400x240",
+        "name": "Many non-smartphones (landscape)",
+        "width": 400,
+        "height": 240
     },
     {
-        "key": "640x960",
-        "name": "iPhone 4",
-        "width": 640,
+        "key": "480x320",
+        "name": "iPhone 3G/3GS, 4/4S, & iPod Touch (4th gen.) (landscape)",
+        "width": 480,
+        "height": 320
+    },
+    {
+        "key": "540x960",
+        "name": "Some smartphones (portrait)",
+        "width": 540,
         "height": 960
     },
     {
-        "key": "640×1136",
-        "name": "iPhone 5",
+        "key": "568x320",
+        "name": "iPhone 5/5C/5S & iPod Touch (5th gen.) (landscape)",
+        "width": 568,
+        "height": 320
+    },
+    {
+        "key": "600×1024",
+        "name": "Some tablets & smartphones (portrait)",
+        "width": 600,
+        "height": 1024
+    },
+    {
+        "key": "640×360",
+        "name": "Some smartphones (landscape)",
         "width": 640,
-        "height": 1136
+        "height": 360
+    },
+    {
+        "key": "720x1280",
+        "name": "Some smartphones (portrait)",
+        "width": 720,
+        "height": 1280
     },
     {
         "key": "768x1024",
-        "name": "iPad",
+        "name": "iPad 1/2/Mini/3/4 (portrait)",
         "width": 768,
         "height": 1024
     },
-        {
-        "key": "800x600",
-        "name": "Old computers",
+    {
+        "key": "800x480",
+        "name": "Some smartphones (landscape)",
         "width": 800,
-        "height": 600
+        "height": 480
+    },
+    {
+        "key": "960x540",
+        "name": "Some smartphones (landscape)",
+        "width": 960,
+        "height": 540
     },
     {
         "key": "1024x600",
-        "name": "Most Netbooks",
+        "name": "iPad 1/2/Mini/3/4 & some netbook/tablets (landscape)",
         "width": 1024,
         "height": 600
     },
     {
-        "key": "1280x800",
-        "name": "MacBook Air",
-        "width": 1280,
+        "key": "1080x800",
+        "name": "Some tablets/smartphones (portrait)",
+        "width": 1080,
         "height": 800
+    },
+    {
+        "key": "1280x720",
+        "name": "Some tablets/smartphones (landscape)",
+        "width": 1280,
+        "height": 720
     },
     {
         "key": "1366x768",
         "name": "Some Laptops",
         "width": 1366,
         "height": 768
-    },
-    {
-        "key": "1440x900",
-        "name": "MacBook Pro 15",
-        "width": 1440,
-        "height": 900
     }
 ]
